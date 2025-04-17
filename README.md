@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 
-**Samuel Ferreira Santos** 
+**I am Samuel Ferreira Santos** 
+
 Hello It's a pleasure to have you here. It's my github and I hope you like what I have to show. 
 
 - 🔭 Programmer, Developer that want to be a Scientist and Engineer
