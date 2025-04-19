@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently studying **Computer Science at UESC**
 
-- 👨‍💻 All of my projects are available at [ferrc.com](ferrc.com)
+- 👨‍💻 All of my projects are available at [ferrc.com](www.ferrc.com)
 
-- 📫 How to reach me **samuel.ferr@ferrc.com**
+- 📫 How to reach me **[samuel.ferr@ferrc.com](mailto:samuel.ferr@ferrc.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
