@@ -2,6 +2,7 @@
 <h3 align="center">A developer and programmer from Brazil</h3>
 <h4 align="center">I hope you like my profile</h4>
 
+
 - 🌱 I’m currently studying **Computer Science at UESC**
 
 - 👨‍💻 All of my projects are available at [ferrc.com](https://www.ferrc.com)
