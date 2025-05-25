@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samuel Ferreira Santos</h1>
-<h3 align="center">A developer and programmer from Brazil, studente at UESC
-  I hope you like my profile and my projects</h3>
+<h3 align="center">A developer and programmer from Brazil, studente at UESC</h3>
   
 
 - 🌱 I’m currently studying **Computer Science at UESC**
