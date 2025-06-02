@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [ferrc.com](https://www.ferrc.com)
 
-- 📫 How to reach me **[samuel.ferr@ferrc.com](mailto:samuel.ferr@ferrc.com)**
+- 📫 How to reach me **[lacerdasamuel26@gmail.com](mailto:lacerdasamuel26@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
