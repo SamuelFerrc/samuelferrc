@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samuel Ferreira Santos</h1>
+<h1 align="center">Hi 👋, I'm Samuel Ferreira Santos from Brazil</h1>
 <h3 align="center">A developer and programmer from Brazil, studente at UESC</h3>
   
 
